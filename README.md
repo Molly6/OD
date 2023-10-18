@@ -29,5 +29,5 @@ bash tools/dist_test.sh configs/od/rotated_retinanet/rotated_retinanet_obb_r18_r
 Subsequently, we submitted the results of the trained model to the official website for testing.
 
 ## Trained model and log file
-  - Trained model can be finded in [GoogleDrive]( https://pan.baidu.com/s/1UzCgvobiv9mlHZqP8qnIfQ?pwd=uwj3), Extraction code is uxrr.
+  - Trained model can be finded in [GoogleDrive]( https://pan.baidu.com/s/1UzCgvobiv9mlHZqP8qnIfQ?pwd=uwj3).
   - Log file can be finded in workdirs/.
